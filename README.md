@@ -4,10 +4,10 @@
 ## Installation
 ```
 # using yarn
-yarn add strapi-provider-email-amazon-ses
+yarn add strapi-provider-email-aws-ses
 
 # using npm
-npm install strapi-provider-email-amazon-ses --save
+npm install strapi-provider-email-aws-ses --save
 ```
 
 **Example**
