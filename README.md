@@ -1,0 +1,1 @@
+# provider-email-aws-ses
