@@ -1,5 +1,15 @@
 # provider-email-aws-ses
 
+
+## Installation
+```
+# using yarn
+yarn add strapi-provider-email-amazon-ses
+
+# using npm
+npm install strapi-provider-email-amazon-ses --save
+```
+
 **Example**
 
 <code>Path - config/plugins.js</code> 
