@@ -4,7 +4,7 @@
 
 <code>Path - config/plugins.js</code> 
 
-<code>
+```
 module.exports = ({ env }) => ({
   // ...
   email: {
@@ -23,5 +23,5 @@ module.exports = ({ env }) => ({
   },
   // ...
 });
-</code> 
+```
 
