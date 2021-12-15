@@ -1,6 +1,9 @@
 # provider-email-aws-ses
 
 
+A provider for AWS Simple Email Service that uses AWS official node SDK and nodemailer for throttling. Let me know if you run into any issues setting up. It works with Strapi 4 and later
+
+
 ## Installation
 ```
 # using yarn
